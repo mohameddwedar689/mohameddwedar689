@@ -6,7 +6,7 @@
 </h2>
 
  <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=3D90F7&center=true&lines=+Alwayes+Learning+new+Things+%F0%9F%9B%A0;Back+End+Developer+%E2%98%81%EF%B8%8F+;+Competitive+Programmer+%F0%9F%92%BB;+Python+Cpp+JavaScript+%E2%99%BE%EF%B8%8F"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=3D90F7&center=true&lines=+Alwayes+Learning+new+Things+%F0%9F%9B%A0;Software+Developer+%E2%98%81%EF%B8%8F+;+Competitive+Programmer+%F0%9F%92%BB;+Python+Cpp+JavaScript+%E2%99%BE%EF%B8%8F"></a>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ I am a Computer Science student in MET Mansoura, interested in Programming and D
 
 - 🌱 I’m currently learning **Back-End Technologies, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohameddwedar689](https://github.com/mohameddwedar689)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mohameddwedar689.github.io/My-Portfolio/)
 
 - 💬 Ask me about **Front-End Technologies, Competitive Programming**
 
