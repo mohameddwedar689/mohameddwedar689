@@ -22,8 +22,7 @@
 <a href="https://leetcode.com/mohameddwedar689/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrabee63" height="30" width="40" /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
-I am a Computer Science graduate from MET Mansoura, interested in Programming and Development, geek and seeker for learning much more, I’m keen on contemplating the new technologies that appear around us every day, and I made up my mind to take a career path that guarantees to cope up with the field that I’m passionate about, Furthermore, I’m a social and Interactive person who likes attending events, volunteering work and competitions.
+Software Engineer graduated with a degree in Computer Science from Misr Higher Institute for Commerce and Computers, Interested to work as a Backend Developer and currently learning backend technologies using Django framework.
 <br/>
 
 ## A little More about me  :
