@@ -27,13 +27,9 @@ Software Engineer graduated with a degree in Computer Science from Misr Higher I
 
 ## A little More about me  :
 
-- 🔭 I’m currently working on **GP**
-
-- 🌱 I’m currently learning **Back-End Technologies, Python**
+- 🌱 I’m currently learning Back-End Technologies **Python - Django**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mohameddwedar689.github.io/My-Portfolio/)
-
-- 💬 Ask me about **Front-End Technologies, Competitive Programming**
 
 - 📫 How to reach me **mohameddwedar689@gmail.com**
 
